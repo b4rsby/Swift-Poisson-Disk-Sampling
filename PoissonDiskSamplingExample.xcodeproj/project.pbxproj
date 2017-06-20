@@ -15,6 +15,7 @@
 		08188B531EF8F87A00ADB9F9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 08188B511EF8F87A00ADB9F9 /* Main.storyboard */; };
 		08188B551EF8F87A00ADB9F9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 08188B541EF8F87A00ADB9F9 /* Assets.xcassets */; };
 		08188B581EF8F87A00ADB9F9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 08188B561EF8F87A00ADB9F9 /* LaunchScreen.storyboard */; };
+		08188B601EF8F8B600ADB9F9 /* Poisson.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08188B5F1EF8F8B600ADB9F9 /* Poisson.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		08188B541EF8F87A00ADB9F9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		08188B571EF8F87A00ADB9F9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		08188B591EF8F87A00ADB9F9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		08188B5F1EF8F8B600ADB9F9 /* Poisson.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Poisson.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				08188B491EF8F87A00ADB9F9 /* GameScene.sks */,
 				08188B4B1EF8F87A00ADB9F9 /* Actions.sks */,
 				08188B4D1EF8F87A00ADB9F9 /* GameScene.swift */,
+				08188B5F1EF8F8B600ADB9F9 /* Poisson.swift */,
 				08188B4F1EF8F87A00ADB9F9 /* GameViewController.swift */,
 				08188B511EF8F87A00ADB9F9 /* Main.storyboard */,
 				08188B541EF8F87A00ADB9F9 /* Assets.xcassets */,
@@ -150,6 +153,7 @@
 				08188B4E1EF8F87A00ADB9F9 /* GameScene.swift in Sources */,
 				08188B501EF8F87A00ADB9F9 /* GameViewController.swift in Sources */,
 				08188B481EF8F87A00ADB9F9 /* AppDelegate.swift in Sources */,
+				08188B601EF8F8B600ADB9F9 /* Poisson.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
