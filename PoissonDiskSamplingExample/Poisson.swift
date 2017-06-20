@@ -1,7 +1,4 @@
-//
-//  Poisson.swift
-//  asasdasas
-//
+
 //  Created by Peter  Barsby on 6/20/17.
 //  Copyright © 2017 Peter Barsby. All rights reserved.
 //
